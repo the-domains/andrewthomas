@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Andrew Thomas Fine Art]]></title>
         <description><![CDATA[Andrew Thomas Fine Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrewthomas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 18:15:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 18:22:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewthomas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a500488-5d32-4404-9e93-4b25778464fb.jpg" alt="" title="">]]></description>
-            <link>undefinedinspiration/index.html</link>
+            <link>https://thegrid.ai/andrewthomas/inspiration/index.html</link>
             <guid isPermaLink="false">d1f751af-2606-425d-b866-5b8758f7b23e</guid>
-            <pubDate>Thu, 10 Mar 2016 18:14:50 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 18:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
