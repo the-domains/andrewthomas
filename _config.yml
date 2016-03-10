@@ -1,0 +1,28 @@
+name: AndrewThomas
+favicon: null
+layout_spectrum: 0.5553881637752056
+typography_spectrum: 0.4909946334082633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8699627947062254
+  lightness: 0.7211997213307768
+  saturation: 0.5731243633199483
+  rhythmicContrast: 0.8249944874551147
+purpose: []
