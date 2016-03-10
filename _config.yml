@@ -1,7 +1,7 @@
 name: AndrewThomas
 favicon: null
-layout_spectrum: 0.5553881637752056
-typography_spectrum: 0.4909946334082633
+layout_spectrum: 0.19868
+typography_spectrum: 0.41633
 title: Andrew Thomas Fine Art
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.8699627947062254
   lightness: 0.7211997213307768
   saturation: 0.5731243633199483
